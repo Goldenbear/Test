@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Enabled</key>
+	<array>
+		<true/>
+	</array>
+	<key>PathNames</key>
+	<array>
+		<string>Assets/StarTrooper.unity</string>
+	</array>
+	<key>iPhone LastLocation</key>
+	<string>/sandbox/BasicExamples/Projects_1/StarTrooper/stplayer</string>
+	<key>wii LastLocation</key>
+	<string>/Users/sam/Desktop/StarTrooperWii_2.7.08</string>
+</dict>
+</plist>
